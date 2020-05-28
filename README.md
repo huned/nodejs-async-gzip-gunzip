@@ -18,10 +18,10 @@ Features:
 
 ## Usage
 
-    asyncGunzip = require('async-gzip-gunzip').gunzip
+    asyncGunzip = require('async-gzip-gunzip').asyncGunzip
     const gunzipped = await asyncGunzip(gzippedBuffer)
 
-    asyncGzip = require('async-gzip-gunzip').gzip
+    asyncGzip = require('async-gzip-gunzip').asyncGzip
     const gzipped = await asyncGzip(gunzippedBuffer)
 
 ## Author
