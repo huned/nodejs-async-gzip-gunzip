@@ -1,6 +1,6 @@
 {
   "name": "async-gzip-gunzip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uncomplicated async gzip and gunzip functions for node.js.",
   "main": "index.js",
   "scripts": {
