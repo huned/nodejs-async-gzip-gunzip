@@ -23,6 +23,6 @@ const asyncGunzip = async buffer => {
 }
 
 module.exports = {
-  gzip: asyncGzip,
+  asyncGzip: asyncGzip,
   asyncGunzip: asyncGunzip
 }
