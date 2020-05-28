@@ -1,7 +1,7 @@
 {
-  "name": "async-gunzip",
+  "name": "async-gunzip-gzip",
   "version": "1.0.0",
-  "description": "An uncomplicated async gunzip function for node.js.",
+  "description": "Uncomplicated async gzip and gunzip functions for node.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,12 +13,13 @@
   "keywords": [
     "gzip",
     "gunzip",
-    "async"
+    "async",
+    "nodejs"
   ],
   "author": "Huned Botee <huned@hunedbotee.com> (https://hunedbotee.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huned/nodejs-async-gunzip/issues"
+    "url": "https://github.com/huned/nodejs-async-gzip-gunzip/issues"
   },
-  "homepage": "https://github.com/huned/nodejs-async-gunzip#readme"
+  "homepage": "https://github.com/huned/nodejs-async-gzip-gunzip#readme"
 }
