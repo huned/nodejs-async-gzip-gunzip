@@ -1,6 +1,6 @@
-# Async Sleep for Node.js
+# Async Gunzip for Node.js
 
-An uncomplicated async sleep function for node.js.
+An uncomplicated async gunzip function for node.js.
 
 ## Overview
 
@@ -8,16 +8,15 @@ Features:
 
 * uncomplicated
 * no dependencies or bloat
-* familiar interface
 
 ## Install
 
-    npm install async-sleep
+    npm install async-gunzip
 
 ## Usage
 
-    asyncSleep = require('async-sleep')
-    await asyncSleep(1000) // sleep for 1s
+    asyncGunzip = require('async-gunzip')
+    const gunzipped = await asyncGunzip(gzippedBuffer)
 
 ## Author
 
