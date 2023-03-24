@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/huned/nodejs-async-gzip-gunzip#readme",
   "devDependencies": {
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "standard": "^14.3.4"
   },
   "standard": {
